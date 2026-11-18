@@ -73,7 +73,7 @@ Interactive filters allow users to explore performance by year, region, and prod
 
 ## Dashboard Preview
 
-![Sales Dashboard](images/dashboard_overview.png)
+![Sales Dashboard](images/dashboard_overview.pdf)
 
 ## Key Business Insights
 
