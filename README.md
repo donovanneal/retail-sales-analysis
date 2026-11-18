@@ -26,7 +26,7 @@ Key questions explored:
 
 ## Dataset
 
-- **Source:** [Insert dataset source]
+- **Source:** [https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data]
 - **Records:** [Insert number of records]
 - **Time Period:** [Insert date range]
 - **Key Fields:** Order Date, Ship Date, Region, Category, Subcategory, Segment, Ship Mode, Sales.
