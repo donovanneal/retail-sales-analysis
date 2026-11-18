@@ -1,7 +1,5 @@
 # Retail Sales Analysis & Interactive Power BI Dashboard
 
-**Tools:** Python | SQL | Power BI
-
 ## Project Overview
 
 This project analyzes retail sales data to identify trends in revenue, product performance, customer segments, regional sales, and shipping methods.
