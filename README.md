@@ -108,7 +108,6 @@ retail-sales-analysis/
 │   └── dashboard_overview.png
 │
 ├── README.md
-└── .gitignore
 ```
 
 ## Conclusion
