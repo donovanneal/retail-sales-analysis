@@ -16,11 +16,9 @@ The project follows a typical data analytics workflow, beginning with data prepa
 
 ## Dataset
 
-- **Source:** [https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data]
+- **Source:** [(https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data)]
 - **Time Period:** 2015–2018
 - **Data:** Retail sales and order information, including order dates, sales, regions, product categories, customer segments, and shipping methods.
-
-*Note: Add the dataset to the repository only if its license permits redistribution.*
 
 ## Project Workflow
 
