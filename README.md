@@ -75,7 +75,7 @@ These filters allow users to explore sales performance across different time per
 
 ## Dashboard Preview
 
-![Retail Sales Dashboard](images/dashboard_overview.png)
+![Retail Sales Dashboard](images/dashboard_overview.pdf)
 
 *The dashboard provides an interactive overview of retail sales performance, with filters that allow users to explore different segments of the data.*
 
