@@ -81,12 +81,15 @@ These filters allow users to explore sales performance across different time per
 
 ## Key Business Insights
 
-The analysis was designed to identify patterns and potential opportunities in retail sales performance.
+The analysis revealed several patterns in retail sales performance:
 
-- [Insert finding about revenue trends over time.]
-- [Insert finding about regional sales performance.]
-- [Insert finding about top-performing product subcategories.]
-- [Insert finding about customer segments or shipping methods.]
+- **Seasonal Revenue Trends:** Revenue is strongest during the fall and winter seasons, suggesting that sales performance is influenced by seasonal purchasing patterns. This could help inform inventory planning and seasonal marketing strategies.
+
+- **Regional Revenue Distribution:** The East and West regions consistently generate the highest revenue, while the Central and South regions contribute the least. This highlights regional differences in sales performance and potential opportunities for growth in lower-performing markets.
+
+- **Top-Performing Products:** Phones and Chairs stand out as the highest-revenue subcategories among the top-performing products, indicating that these products are major contributors to overall sales.
+
+- **Shipping Method Distribution:** Standard Class accounts for the vast majority of orders, demonstrating a strong customer preference for the most commonly used shipping option. This information could help guide shipping capacity and fulfillment planning. 
 
 ## Repository Structure
 
