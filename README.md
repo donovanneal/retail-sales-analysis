@@ -45,7 +45,7 @@ Analysis focused on:
 - Customer segment performance
 - Shipping method distribution
 
-**Script:** `scripts/sales_analysis.sql`
+**Script:** `scripts/sales_kpis.sql`
 
 ### 3. Dashboard Development — Power BI
 
@@ -94,12 +94,12 @@ The analysis was designed to identify patterns and potential opportunities in re
 retail-sales-analysis/
 │
 ├── data/
-│   ├── raw/
-│   └── processed/
+│   ├── sales_raw.csv
+│   └── sales_clean.csv
 │
 ├── scripts/
 │   ├── data_cleaning.py
-│   └── sales_analysis.sql
+│   └── sales_kpis.sql
 │
 ├── powerbi/
 │   └── sales_dashboard.pbix
